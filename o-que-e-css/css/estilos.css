@@ -1,14 +1,15 @@
-h1 {
-	font-family: verdana;
-}
-#titulo {
-	color: blue;
-}
-
-p.destaque {
+/*
+.missao strong {
 	color: red;
 }
 
-p.missao {
-	font-family: arial;
+
+article strong {
+	color: blue;
+}
+
+*/
+
+article .missao strong{
+	color: green;
 }
